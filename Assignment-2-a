@@ -1,9 +1,0 @@
-Assignment 2: Spark DataFrames and Transformations
-
-a) Theory
-
-Differentiate between transformations and actions in Spark. Provide at least 3 examples for each and explain their significance in execution planning.
-
-Ans:
-Spark uses Lazy Evaluation. This means Spark doesn't process data immediately when you write code; it waits until an Action is called.
-
